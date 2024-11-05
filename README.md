@@ -1,5 +1,5 @@
 # TCP_Banking_Server
-In this project, my aim was to create a banking server that should use TCP to establihsh communication with the client side. The banking operations requested by the client side are all sent to this server side to get checked and then confirmed. As of right now however, only signing in to the bank account is implemented. I'm looking forward to improving it in the future.
+In this project, my aim was to create a banking server that should use TCP to establish communication with the client side. The banking operations requested by the client side are all sent to this server side to get checked and then confirmed. As of right now however, only signing in to the bank account is implemented. I'm looking forward to improving it in the future.
 
 ## How to use:
 - Connect the server and the client to the same network.
