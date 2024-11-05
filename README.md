@@ -10,3 +10,4 @@ In this project, my aim was to create a banking server that should use TCP to es
   - You should be able to see your IPv4 address in the network you're connected to.
   - Copy it and change the specified location of code in the CLIENT side.
 - In order for the server side to check banking information of users, you need to change it's directory to your own case. You can do this by opening the .sln file in Visual Studio, navigating to the 101st line of the TCP_Banking_Server_2.cpp file. The bankInformation.txt file is also included in the repository under the data directory.
+- After all of these steps, you should be able to run the .sln file in Visual Studio.
