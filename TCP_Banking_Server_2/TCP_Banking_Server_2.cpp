@@ -98,7 +98,7 @@ int main()
 	int i = 0;
 	char bankInfoArray[3][4096];
 
-	ifstream infile("/Users/Administrator/Desktop/PITON Project/server/data/bankInformation.txt"); // Change the bankInformation.txt path to your case.
+	ifstream infile("/Users/Administrator/Desktop/TCP-Banking-Server-with-CPP-master/data/bankInformation.txt"); // Change the bankInformation.txt path to your case.
 	while (!infile.eof())
 	{
 		infile >> bankInfoArray[i];
